@@ -36,7 +36,7 @@ jain131102-sms-spam-detection-system-using-nlp/
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/Jain131102/SMS-Spam-Detection-System-Using-NLP.git
-cd jain131102-sms-spam-detection-system-using-nlp
+cd SMS-Spam-Detection-System-Using-NLP
 ```
 
 ## Step 2: Install Dependencies
