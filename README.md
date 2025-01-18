@@ -118,4 +118,4 @@ Email: [sourabh.jain131102@gmail.com](mailto:sourabh.jain131102@gmail.com)
 ---
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
